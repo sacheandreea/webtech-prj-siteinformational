@@ -1,1 +1,2 @@
 # webtech-prj-siteinformational
+Pagina web cu informatii legate de facultatile existente in fiecare oras din Romania.Pe prima pagina vor fi afisate orasele.Cand dam click pe un oras,se vor afisa facultatile din orasul respectiv,iar cand dam click pe o facultate ,se vor afisa informatii cu privire la specializari,optionale la care pot opta studentii,materii,modalitate de admitere,media de admitere din anul precedent,taxa de scolarizare,site-ul facultatii,o sectiune de comentarii unde vor aparea opinii,dar si oportunitati de angajare dupa absolvire.
